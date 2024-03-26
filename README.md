@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aubin Morlas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Science student</h3>
 
 - 🔭 I’m currently working on **Top 14 visualization project**
 
