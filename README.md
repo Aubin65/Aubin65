@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubin Morlas</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
-- 🔭 I’m currently working on **Top 14 database project**
-
-- 🌱 I’m currently learning **Data Science and Data Engineering**
+- 🔭 I’m currently working at **Octime**
 
 - 📫 How to reach me **amorlas65@gmail.com**
 
