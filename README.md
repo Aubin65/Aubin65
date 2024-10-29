@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at **Octime**
 
-- 📫 How to reach me **amorlas65@gmail.com**
+- 📫 How to reach me **aubin.morlas@outlook.fr**
 
-- My actual work is about creating a new visualization about my own rugb championship to prepare the best for next matches.
+- My actual work is about creating a new visualization about my own rugby championship to prepare the best for next matches.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
